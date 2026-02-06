@@ -4,7 +4,8 @@
 🎓 **B.Tech – Artificial Intelligence & Data Science (3rd Year)**  
 
 <p align="center">
-  <img src="assets/kitty.gif" width="280" alt="coding kitty"/>
+  <img src="assets/kitty.gif" width="350" alt="coding kitty"/>
+  
 </p>
 
 ☕ Turning coffee into Java code  
@@ -31,21 +32,18 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 ### 🧩 DSA & Competitive Programming
 
-<p align="center">
-  <img src="assets/dsa-grind.jpg" width="250" alt="DSA grind"/>
-</p>
+<img src="assets/dsa-grind.jpg" width="300" align="left" hspace="20" alt="DSA grind"/>
 
 - Topic-wise problem solving on **LeetCode** and **GeeksforGeeks**
 - Regular practice on **Codeforces, CodeChef, and AtCoder**
 - Strong focus on logic building, patterns, and optimization
 - Progress tracking using **Codolio**
 
----
-
 ### 💻 Frontend / Web Development
 - Building responsive web apps using **HTML, CSS, JavaScript**
 - Creating interactive mini-projects
 - Clean UI with readable, structured code
+<br clear="right" />
 
 ---
 
