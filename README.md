@@ -43,7 +43,7 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 - Building responsive web apps using **HTML, CSS, JavaScript**
 - Creating interactive mini-projects
 - Clean UI with readable, structured code
-<br clear="right" />
+<br clear="left" />
 
 ---
 
