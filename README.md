@@ -32,7 +32,7 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 ### 🧩 DSA & Competitive Programming
 
 <p align="center">
-  <img src="assets/dsa-grind.jpg" width="380" alt="DSA grind"/>
+  <img src="assets/dsa-grind.jpg" width="250" alt="DSA grind"/>
 </p>
 
 - Topic-wise problem solving on **LeetCode** and **GeeksforGeeks**
