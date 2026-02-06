@@ -96,15 +96,6 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 ---
 
-### 🌷 AtCoder
-
-<p align="center">
-  <a href="https://atcoder.jp/users/monikabaabu">
-    <img src="https://img.shields.io/badge/AtCoder-View%20Profile-fbcfe8?style=for-the-badge&logo=atcoder&logoColor=000000"/>
-  </a>
-</p>
-
----
 
 
 ## 🌐 Connect With Me
