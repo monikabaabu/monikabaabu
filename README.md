@@ -30,9 +30,9 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 ## 🔥 What I Focus On
 
-### 🧩 DSA & Competitive Programming
-
 <img src="assets/dsa-grind.jpg" width="300" align="left" hspace="20" alt="DSA grind"/>
+
+### 🧩 DSA & Competitive Programming
 
 - Topic-wise problem solving on **LeetCode** and **GeeksforGeeks**
 - Regular practice on **Codeforces, CodeChef, and AtCoder**
