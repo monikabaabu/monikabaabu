@@ -54,17 +54,18 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 ---
 
-## 🐍 GitHub Activity (Daily Consistency)
+## 🐍 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-pink.svg" alt="GitHub contribution snake"/>
 </p>
+
 
 ---
 
 ## 📈 Competitive Programming Activity
 
-### 💗 LeetCode (Streaks & Contests)
+### 💗 LeetCode
 <p align="center">
   <a href="https://leetcode.com/u/monikabaabu/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-fbcfe8?style=for-the-badge&logo=leetcode&logoColor=000000"/>
@@ -79,7 +80,7 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 ---
 
-### 🎀 Codeforces (Contest Activity)
+### 🎀 Codeforces
 
 <p align="center">
   <a href="https://codeforces.com/profile/monikabaabu">
@@ -95,7 +96,7 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 ---
 
-### 🌷 AtCoder (Official Stats)
+### 🌷 AtCoder
 
 <p align="center">
   <a href="https://atcoder.jp/users/monikabaabu">
