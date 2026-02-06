@@ -57,8 +57,9 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 ## 🐍 GitHub Activity (Daily Consistency)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-pink.svg"/>
+  <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-strongpink.svg"/>
 </p>
+
 
 ---
 
