@@ -1,23 +1,29 @@
 # 🌸✨ Hi, I’m Monika Babu ✨🌸  
-### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀  
-
-🎓 **B.Tech – Artificial Intelligence & Data Science (3rd Year)**  
 
 <p align="center">
-  <img src="assets/kitty.gif" width="350" alt="coding kitty"/>
+  <img src="assets/kitty.gif" width="350" align="right" alt="coding kitty"/>
   
 </p>
 
-☕ Turning coffee into Java code  
-🧠 Solving problems that make sense  
-🌸 Consistent learner with a soft-pink aesthetic  
+### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀  
+### 🎓 B.Tech – Artificial Intelligence & Data Science (3rd Year) 
+
+
+
+#### ☕ Turning coffee into Java code  
+
+#### 🧠 Solving problems that make sense  
+
+#### 🌸 Consistent learner with a soft-pink aesthetic  
+
+
+<br clear="right" />
 
 ---
 
 ## 💫 About Me
 
-Hi! I’m **Monika**, a 3rd-year **AI & Data Science** student who enjoys  
-**problem solving, logical thinking, and building clean web projects**.
+Hi! I’m **Monika**, a 3rd-year **AI & Data Science** student who enjoys  **problem solving, logical thinking, and building clean web projects**.
 
 🔭 Currently working on **DSA & Full-Stack Development**  
 🌱 Learning and practicing **DSA with Java**  
