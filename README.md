@@ -54,7 +54,9 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 <p align="center">
   <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-pink.svg"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monikabaabu&show_icons=true&count_private=true&include_all_commits=true&theme=rose_pine" />
+</p>
 ---
 
 ## 📈 Competitive Programming Activity
