@@ -5,16 +5,17 @@
   
 </p>
 
-### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀  
-### 🎓 B.Tech – Artificial Intelligence & Data Science (3rd Year) 
 
+### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀 
+<br />
 
+🎓 B.Tech – Artificial Intelligence & Data Science (3rd Year) 
 
-#### ☕ Turning coffee into Java code  
+<br />
 
-#### 🧠 Solving problems that make sense  
-
-#### 🌸 Consistent learner with a soft-pink aesthetic  
+☕ Turning coffee into Java code  
+🧠 Solving problems that make sense  
+🌸 Consistent learner with a soft-pink aesthetic  
 
 
 <br clear="right" />
