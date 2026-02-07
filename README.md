@@ -1,15 +1,20 @@
-# 🌸✨ Monika Babu ✨🌸  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=38&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Hey+Coder+Buddies+%F0%9F%91%8B;Monika+Babu+here+%F0%9F%8C%B8" alt="Typing SVG" />
+  </a>
+</div>
+
+---
 
 <p align="center">
   <img src="assets/kitty.gif" width="350" align="right" alt="coding kitty"/>
-  
 </p>
 
-
 ### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀 
+
 <br />
 
-Hi! I’m **Monika**, a 3rd-year **AI & Data Science** student who enjoys  **problem solving, logical thinking, and building clean web projects**.
+Hieee! I’m **Monika**, a 3rd-year **AI & Data Science** student who enjoys  **problem solving, logical thinking, and building clean web projects**.
 
 🔭 Currently working on **DSA & Mern Stack**  
 🌱 Learning and practicing **DSA with Java**  
@@ -40,24 +45,29 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 <br clear="left" />
 
 ---
+
 ## 🛠️ Tech Stack  
 
 ### 👩‍💻 Programming Languages  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
 ### 🌐 Web Technologies  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database  
+### 🗄️ Database 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Tools & Platforms 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
@@ -67,17 +77,16 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 ## 📈 Competitive Programming Activity
 
 ### 💗 LeetCode
+
 <p align="center">
   <a href="https://leetcode.com/u/monikabaabu/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-fbcfe8?style=for-the-badge&logo=leetcode&logoColor=000000"/>
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/monikabaabu?font=Baloo&ext=contest&border=0&radius=20&bg_color=FFF0F5&text_color=9D174D&accent_color=EC4899&title_color=EC4899" alt="LeetCode Stats Pink"/>
 </p>
-
 
 ---
 
@@ -89,22 +98,19 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=monikabaabu&bg_color=FFF0F5&title_color=EC4899&text_color=9D174D&icon_color=F472B6" alt="Codeforces Stats"/>
 </p>
 
-
 ---
+
 ## 🐍 GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-pink.svg" alt="GitHub contribution snake"/>
 </p>
 
-
 ---
-
 
 ## 🌐 Connect With Me
 
