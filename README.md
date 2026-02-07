@@ -1,4 +1,4 @@
-# 🌸✨ Hi, I’m Monika Babu ✨🌸  
+# 🌸✨ Monika Babu ✨🌸  
 
 <p align="center">
   <img src="assets/kitty.gif" width="350" align="right" alt="coding kitty"/>
@@ -9,29 +9,16 @@
 ### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀 
 <br />
 
-🎓 B.Tech – Artificial Intelligence & Data Science (3rd Year) 
-
-<br />
-
-☕ Turning coffee into Java code  
-🧠 Solving problems that make sense  
-🌸 Consistent learner with a soft-pink aesthetic  
-
-
-<br clear="right" />
-
----
-
-## 💫 About Me
-
 Hi! I’m **Monika**, a 3rd-year **AI & Data Science** student who enjoys  **problem solving, logical thinking, and building clean web projects**.
 
-🔭 Currently working on **DSA & Full-Stack Development**  
+🔭 Currently working on **DSA & Mern Stack**  
 🌱 Learning and practicing **DSA with Java**  
-👯 Open to collaborating on **Frontend / Full-Stack projects**  
+👯 Open to collaborating on **Frontend projects**  
 🎯 Regularly practicing **competitive programming**
 
 I believe in **consistency over speed** and **clarity over complexity** ✨  
+
+<br clear="right" />
 
 ---
 
@@ -53,13 +40,27 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 <br clear="left" />
 
 ---
+## 🛠️ Tech Stack  
 
-## 🐍 GitHub Activity
-
+### 👩‍💻 Programming Languages  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-pink.svg" alt="GitHub contribution snake"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
+### 🌐 Web Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
 
@@ -95,7 +96,14 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 
 
 ---
+## 🐍 GitHub Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/monikabaabu/monikabaabu/output/github-contribution-grid-snake-pink.svg" alt="GitHub contribution snake"/>
+</p>
+
+
+---
 
 
 ## 🌐 Connect With Me
