@@ -19,7 +19,8 @@ jobs:
           github_user_name: monikabaabu
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-pink.svg?color_snake=#9d174d&color_dots=#1a1a1a,#f7b7d2,#f4a7c1,#f18bbf,#ec4899
+            dist/github-contribution-grid-snake-pink.svg?color_snake=#9d174d&color_dots=#1a1a1a,#7A0E4E,#9E1364,#C2187A,#E91E8D,#FF2E95,#FF4FA6,#FF73B8,#FF9ACB,#FFC1DE,#FFE6F2
+
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
