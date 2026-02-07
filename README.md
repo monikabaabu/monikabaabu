@@ -85,7 +85,7 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/monikabaabu?font=Baloo&ext=contest&border=0&radius=20&bg_color=FFF0F5&text_color=9D174D&accent_color=EC4899&title_color=EC4899" alt="LeetCode Stats Pink"/>
+  <img src="https://leetcard.jacoblin.cool/monikabaabu?font=Roboto&ext=contest&border=0&radius=20&bg_color=FFF0F5&text_color=9D174D&accent_color=EC4899&title_color=EC4899" alt="LeetCode Stats Pink"/>
 </p>
 
 ---
