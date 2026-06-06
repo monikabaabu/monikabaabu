@@ -57,13 +57,13 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 ### 🌐 Web Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
 ### 🗄️ Database 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ⚙️ Tools & Platforms 
