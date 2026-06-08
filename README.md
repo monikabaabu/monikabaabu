@@ -14,7 +14,7 @@
 
 <br />
 
-Hieee! I’m **Monika**, a 3rd-year **AI & Data Science** student who enjoys  **problem solving, logical thinking, and building clean web projects**.
+Hieee! I’m **Monika**, a 4th-year **AI & Data Science** student who enjoys  **problem solving, logical thinking, and building clean web projects**.
 
 🔭 Currently working on **DSA & Mern Stack**  
 🌱 Learning and practicing **DSA with Java**  
