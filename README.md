@@ -10,7 +10,7 @@
   <img src="assets/kitty.gif" width="350" align="right" alt="coding kitty"/>
 </p>
 
-### Problem Solver • Java & DSA Focused • Frontend Explorer 💻🎀 
+### Problem Solver • Java & DSA Focused • MERN stack Explorer 💻🎀 
 
 <br />
 
@@ -18,7 +18,7 @@ Hieee! I’m **Monika**, a 4th-year **AI & Data Science** student who enjoys  **
 
 🔭 Currently working on **DSA & Mern Stack**  
 🌱 Learning and practicing **DSA with Java**  
-👯 Open to collaborating on **Frontend projects**  
+👯 Open to collaborating on **MERN stack projects**  
 🎯 Regularly practicing **competitive programming**
 
 I believe in **consistency over speed** and **clarity over complexity** ✨  
@@ -38,8 +38,8 @@ I believe in **consistency over speed** and **clarity over complexity** ✨
 - Strong focus on logic building, patterns, and optimization
 - Progress tracking using **Codolio**
 
-### 💻 Frontend / Web Development
-- Building responsive web apps using **HTML, CSS, JavaScript**
+### 💻 Web Development
+- Building responsive web apps using **HTML, CSS, JavaScript, React.js, Node.js , Express.js**
 - Creating interactive mini-projects
 - Clean UI with readable, structured code
 <br clear="left" />
